@@ -2,6 +2,18 @@
 
 Use [pywebpush](https://pypi.org/project/pywebpush/) to push web notification
 
+## End to End steps
+
+1. Subscribe  
+https://ryukerliu.github.io/web-push-play-ground/  
+Subscribe Push Notification  
+Code: https://github.com/RyukerLiu/web-push-play-ground  
+
+2. Push  
+Once you get the subscription info, see below how to push.
+
+## How to push with python
+
 You can see test case for some hint.
 
 `python -m unittest`
